@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Firdous</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate FullStack Web developer</h3>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Firdous19&label=Profile%20views&color=0e75b6&style=flat" alt="Firdous19" /> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Firdous19&label=Profile%20views&color=0e75b6&style=flat" alt="teamedwardforever" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Firdous19&theme=darkhub" alt="Firdous19" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Firdous19&theme=darkhub" alt="Firdous19" /></a> </p> -->
 
 - 🔭 I am a web developer currently honing my skills at Narula Institute of Technology. I'm passionate about building creative and user-friendly web experiences.
-- 🌱 I’m currently learning **MERN , TypeScript**
+- 🌱 I’m currently learning **React , Redux and TypeScript**
 - 💬 Ask me about **React JS, UI/UX Design, Frontend development**
 - 📫 How to reach me **firdousrahaman42@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Firdous19**
 - ⚡ Fun fact **The world's very first web page was created to explain... how to use the web!**
 
-<div> <a href="https://www.linkedin.com/in/sk-firdous-rahaman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div margintop="10px"><a href="https://www.linkedin.com/in/sk-firdous-rahaman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Firdous19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:firdousrahaman42.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://twitter.com/Firdous2003"><img src="https://img.shields.io/badge/TWITTER-100000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,25 +45,17 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="python" width="40" height="40">
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left" display="">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Firdous19&show_icons=true&locale=en&theme=dark" alt="Firdous19" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdous19&layout=compact&theme=dark>
+<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdous19&layout=compact&theme=dark" alt="stats"></p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Firdous19&theme=dark&hide_border=false" alt="streak">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Firdous19">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firdous19&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdous19&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdous19&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdous19&theme=2077" height="180em" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdous19&theme=2077" height="180em" />
+</div>
 
 <p>Thanks! ❤️</p>
