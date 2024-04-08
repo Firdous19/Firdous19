@@ -46,7 +46,7 @@
 </p>
 
 <h3 align="left" display="">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Firdous19&show_icons=true&locale=en&theme=dark" alt="Firdous19" />
+<!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Firdous19&show_icons=true&locale=en&theme=dark" alt="Firdous19" /> -->
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdous19&layout=compact&theme=dark" alt="stats"></p>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Firdous19&theme=dark&hide_border=false" alt="streak">
 </p>
@@ -54,8 +54,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left">⚡Activity Graph:</h2>
+<!-- <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdous19&theme=2077" height="180em" />
-</div>
+</div> -->
 
 <p>Thanks! ❤️</p>
